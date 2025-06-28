@@ -1,0 +1,40 @@
+Project Title: Sales Analysis Portfolio
+Author: Nier Zhang
+Date: June 1, 2025
+Tools Used: Microsoft Excel (PivotTables, Charts, Slicers)
+
+Google drive shared link:
+	https://drive.google.com/drive/folders/1_XpZjonLEMmZmbJXmGBY29VrGEHoFhkJ?usp=sharing
+
+Project Description
+This project presents a multi-year sales data analysis (2003–2005) using Microsoft Excel. It demonstrates data exploration, cleaning, visualization, and business insight generation through interactive dashboards and charts.
+
+Files Included
+•Raw Data
+	sales_data_sample.csv
+	sales_data_sample.xlsx	
+	Data Resource
+• Processed
+	Nier_Zhang_SalesAnalysis_Portfolio.xlsx
+	Contains the Excel workbook with multiple sheets showcasing:
+		Monthly Sales Trends by Deal Size
+		Overall Sales Patterns
+		Deal Size Distribution
+		Regional Order Status and Sales Volume
+• Final_output
+	Nier_Sales_Analysis_Report.pdf
+		A PDF summary of the dashboard insights and visualizations extracted from the Excel file. Useful for quick review and sharing.
+
+Key Insights
+	• Medium-sized deals were the most consistent revenue drivers.
+	• Sales peaked in November 2004, suggesting seasonal trends.
+	• USA generated the highest sales revenue and had the most order volume.
+	• Most orders were successfully shipped, with minimal cancellations concentrated in select regions.
+Skills Demonstrated
+	• Data cleaning (date formatting, field extraction)
+	• PivotTable setup and category grouping
+	• Chart building (Column, Line, Pie, Bar)
+	• Dashboard layout design
+	• Business communication through data storytelling
+
+
