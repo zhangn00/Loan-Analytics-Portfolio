@@ -4,7 +4,7 @@
 Lending Club Accepted Loans (sample 100k rows, 2007–2018).
 https://www.kaggle.com/datasets/wordsforthewise/lending-club/code
 
-**Quick Access** (Google Drive)
+**Quick Access** (Google Drive) 
 https://drive.google.com/drive/folders/1_g8Mikaxehd1_jwzLntvZNxylWA-1j3g
 ## Objective  
 Quantify how borrower characteristics affect default probability and visualize key risk drivers.
